@@ -26,7 +26,7 @@ int main()
     int i, n, m;
     char team[10];
 
-    printf("Enter the Team (csk,rcb,mi):\n");
+    printf("Enter the Team (srh,csk,rcb):\n");
     scanf("%s", team);
 
     printf("Enter the Batsman detail:\n");
